@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "pagseguro/pagseguro-php-sdk": "^6.0",
+        "grandchef/pagseguro-sdk-php": "^1.0",
         "symfony/serializer": "^5.0"
     },
     "autoload": {
